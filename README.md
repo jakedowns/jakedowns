@@ -12,7 +12,7 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakedowns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
