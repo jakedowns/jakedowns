@@ -12,13 +12,9 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jakedowns&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=jakedowns&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
-
----
-
-### Recent Experience
-- Award-winning Pillow XR for Meta Quest
-- Rago / Wright Auction Group (Frontend, CMS, Bespoke White-label Auction Platform)
+### Notable Experience
+- [Auggie Award-winning Pillow XR for Meta Quest](https://www.meta.com/experiences/pillow/5655932521164368/)
+- [Rago / Wright Auction Group (Frontend, CMS, Bespoke White-label Auction Platform)](https://wright20.com)
 
 ---
 
@@ -30,3 +26,7 @@ I have experience with the following:
 - Three.js / P5.js
 - Blender
 - Lua, Python, Java, Kotlin, Rust
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jakedowns&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=jakedowns&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
