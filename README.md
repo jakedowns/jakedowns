@@ -20,12 +20,14 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 I have experience with the following:
 - Javascript/HTML/CSS (inc. React, Vue, SASS, tailwind, websockets, you name it)
-- PHP/MySQL (Laravel)
+- PHP/MySQL (Laravel), GraphQL, Roadrunner PHP, Hack/HHVM
 - C# + Unity
 - Unreal Engine
 - Three.js / P5.js
 - Blender
 - Lua, Python, Java, Kotlin, Rust
+- Wordpress, Drupal, Code Igniter, Expression Engine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0,
+- Ember, Angular, Meteor
 
 ---
 
