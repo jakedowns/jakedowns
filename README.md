@@ -19,6 +19,8 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 ---
 
 I have experience with the following:
+- Designing, Developing, Producing, Testing, Shipping, Supporting small, medium & large distributed real-time systems
+- Anti-Gravity x Gemini, OpenCode x OpenRouter, Cursor, Co-Pilot, Codex
 - Javascript/HTML/CSS (inc. React, Vue, SASS, tailwind, websockets, you name it)
 - PHP/MySQL (Laravel), GraphQL, Roadrunner PHP, Hack/HHVM
 - C# + Unity
@@ -28,6 +30,13 @@ I have experience with the following:
 - Lua, Python, Java, Kotlin, Rust
 - Wordpress, Drupal, Code Igniter, Expression Engine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0, Corona SDK, PhoneGap, Swift, Objective-C
 - Ember, Angular, Meteor
+- Apple Suite: GarageBand, Logic Pro, Final Cut Pro
+- Adobe Suite: Photoshop, Illustrator, InDesign, Premiere After Effects
+- Google Suite: Docs, Sheets, Slides
+- Microsoft Office Suite: Word, Excel, PowerPoint
+- AWS, Rackspace, Dreamhost, GoDaddy
+- MacOS, Linux, Windows, Android, iOS
+- Background in School-District level IT Support
 
 ---
 
