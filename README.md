@@ -26,7 +26,7 @@ I have experience with the following:
 - Three.js / P5.js
 - Blender
 - Lua, Python, Java, Kotlin, Rust
-- Wordpress, Drupal, Code Igniter, Expression Engine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0,
+- Wordpress, Drupal, Code Igniter, Expression Engine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0, Corona SDK, PhoneGap, Swift, Objective-C
 - Ember, Angular, Meteor
 
 ---
