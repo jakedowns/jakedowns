@@ -36,6 +36,9 @@ I have experience with the following:
 - Microsoft Office Suite: Word, Excel, PowerPoint
 - AWS, Rackspace, Dreamhost, GoDaddy
 - MacOS, Linux, Windows, Android, iOS
+- ci/cd experience, github actions, 
+- pivotal tracker, jira, trello, notion, obsidian, monday.com
+- slack, discord, teams, google chat, zoom
 - Background in School-District level IT Support
 
 ---
