@@ -14,8 +14,11 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 ### Notable Experience
 - [XReal Open Source Community Drivers Directory (⭐️75+ Stars)](https://github.com/jakedowns/xreal-community-open-source-driver-directory)
+- Added LitByLeia LumePad 1, Red Hydrogen One, LumePad 2 Support to Citra 3DS Emulator: [LP1,RH1 (⭐️11 Stars)](https://github.com/jakedowns/citra-4v) | [LP2 (⭐️7 Stars)](https://github.com/jakedowns/citra)
+- [Added LitByLeia LumePad 1 + 2 Support to MPV Video Player (⭐️9 Stars)](https://github.com/jakedowns/mpv-android)
+- [Added Looking Glass Portrait Support to Citra 3DS Emulator (via ReShade) (⭐️10 Stars)](https://github.com/jakedowns/reshade-shaders)
 - [Auggie Award-winning Pillow XR for Meta Quest](https://www.meta.com/experiences/pillow/5655932521164368/)
-- [Rago / Wright Auction Group (Frontend, CMS, Bespoke White-label Auction Platform)](https://wright20.com)
+- [Rago / Wright Auction Group (Full-Stack Dev from 2014-2024: Front-end Responsive SPA, Bespoke CMS White-label Real-time Auction Platform scaled to multiple auction houses)](https://wright20.com)
 
 ---
 
@@ -29,6 +32,9 @@ I have experience with the following:
 - Three.js / P5.js
 - Blender
 - Lua, Python, Java, Kotlin, Rust
+
+---
+
 - Wordpress, Drupal, Code Igniter, Expression Engine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0, Corona SDK, PhoneGap, Swift, Objective-C
 - Ember, Angular, Meteor
 - Apple Suite: GarageBand, Logic Pro, Final Cut Pro
