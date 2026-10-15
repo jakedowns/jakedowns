@@ -27,7 +27,7 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 I have experience with the following:
 - Designing, Developing, Producing, Testing, Shipping, Supporting small, medium & large distributed real-time systems
-- Anti-Gravity x Gemini, OpenCode x OpenRouter, Cursor, Co-Pilot, Codex
+- Anti-Gravity x Gemini, OpenCode x OpenRouter, Cursor, Co-Pilot, Codex, Grok
 - Javascript/HTML/CSS (inc. React, Vue, SASS, tailwind, websockets, you name it)
 - PHP/MySQL (Laravel), GraphQL, Roadrunner PHP, Hack/HHVM
 - C# + Unity
