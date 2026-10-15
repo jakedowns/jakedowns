@@ -3,7 +3,7 @@
 I'm a full-stack creative coder (aka. design engineer) currently looking for full-time remote work.
 
 Previous Clients:
-Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, SOS Children's Villages Illinois
+Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SOS Children's Villages Illinois
 
 If you're looking for someone who is into any/all of the following, 
 Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https://linkedin.com/in/jakedowns)
