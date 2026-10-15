@@ -26,7 +26,7 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 <img src="past-clients.jpeg" alt="Description" width="600" style="width: 600px; max-width: 600px;">
 
-- ASUG, Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SirenGPS, uBid.com, SOS Children's Villages Illinois, Cooper MacNeil (WeatherTech Racing), Sarah Spain, Waterman Studios, Lowbrow Studios
+- ASUG, Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, NFL, MLB, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SirenGPS, uBid.com, SOS Children's Villages Illinois, Cooper MacNeil (WeatherTech Racing), Sarah Spain, Waterman Studios, Lowbrow Studios
 
 ---
 
