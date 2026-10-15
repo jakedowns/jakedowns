@@ -13,7 +13,7 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 ---
 
 ### Notable Experience
-- [XReal Open Source Community Drivers Directory](https://github.com/jakedowns/xreal-community-open-source-driver-directory)
+- [XReal Open Source Community Drivers Directory (⭐️75+ Stars)](https://github.com/jakedowns/xreal-community-open-source-driver-directory)
 - [Auggie Award-winning Pillow XR for Meta Quest](https://www.meta.com/experiences/pillow/5655932521164368/)
 - [Rago / Wright Auction Group (Frontend, CMS, Bespoke White-label Auction Platform)](https://wright20.com)
 
