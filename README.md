@@ -2,12 +2,6 @@
 
 I'm a full-stack creative coder (aka. design engineer) currently looking for full-time remote work.
 
-*Previous Clients:*
-
-<img src="past-clients.jpeg" alt="Description" width="600" style="width: 600px; max-width: 600px;">
-
-- ASUG, Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SirenGPS, uBid.com, SOS Children's Villages Illinois, Cooper MacNeil (WeatherTech Racing), Sarah Spain, Waterman Studios, Lowbrow Studios
-
 If you're looking for someone who is into any/all of the following, 
 Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https://linkedin.com/in/jakedowns)
 
@@ -25,6 +19,14 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 - [Added Looking Glass Portrait Support to Citra 3DS Emulator (via ReShade) (⭐️10 Stars)](https://github.com/jakedowns/reshade-shaders)
 - [Worked on Auggie Award-winning Mixed Reality Experience: Pillow XR for Meta Quest](https://www.meta.com/experiences/pillow/5655932521164368/) -- Best Consumer App award at the 15th annual Auggie Awards during AWE USA 2024
 - [Rago / Wright Auction Group (Full-Stack Dev from 2014-2024: Front-end Responsive SPA, Bespoke CMS White-label Real-time Auction Platform scaled to multiple auction houses)](https://wright20.com)
+
+---
+
+*Previous Clients:*
+
+<img src="past-clients.jpeg" alt="Description" width="600" style="width: 600px; max-width: 600px;">
+
+- ASUG, Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SirenGPS, uBid.com, SOS Children's Villages Illinois, Cooper MacNeil (WeatherTech Racing), Sarah Spain, Waterman Studios, Lowbrow Studios
 
 ---
 
