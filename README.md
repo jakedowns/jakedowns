@@ -13,6 +13,8 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 ---
 
 ### Notable Experience
+- [Cypress Test Helpers for Multi-tab Testing (⭐️47 Stars)](https://github.com/jakedowns/CypressHelpers)
+- [Into3D - Open Source Unity + VLC 3D Video Player Android App for XREAL 1K+ downloads in Play Store (⭐️24 Stars)](https://github.com/jakedowns/Nreal-Unity-Demos/releases)
 - [Contributed to XReal Open Source Community Drivers Directory (⭐️75+ Stars)](https://github.com/jakedowns/xreal-community-open-source-driver-directory)
 - Added LitByLeia LumePad 1, RED Hydrogen One, LumePad 2 Support to Citra 3DS Emulator: [LP1, RH1 (⭐️11 Stars)](https://github.com/jakedowns/citra-4v) | [LP2 (⭐️7 Stars)](https://github.com/jakedowns/citra)
 - [Added LitByLeia LumePad 1 + 2 Support to MPV Video Player (⭐️9 Stars)](https://github.com/jakedowns/mpv-android)
