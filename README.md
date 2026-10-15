@@ -13,6 +13,8 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 - Full-Stack Development (Web & Native)
 - Shaders / 3D
 
+![Past Clients](past-clients.jpeg)
+
 ---
 
 ### Notable Experience
