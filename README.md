@@ -13,7 +13,7 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 - Full-Stack Development (Web & Native)
 - Shaders / 3D
 
-<img src="past-clients.jpeg" alt="Description" style="max-width: 300px;">
+<img src="past-clients.jpeg" alt="Description" width="300" style="width: 300px; max-width: 300px;">
 
 ---
 
