@@ -14,7 +14,7 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 
 ### Notable Experience
 - [XReal Open Source Community Drivers Directory (⭐️75+ Stars)](https://github.com/jakedowns/xreal-community-open-source-driver-directory)
-- Added LitByLeia LumePad 1, Red Hydrogen One, LumePad 2 Support to Citra 3DS Emulator: [LP1,RH1 (⭐️11 Stars)](https://github.com/jakedowns/citra-4v) | [LP2 (⭐️7 Stars)](https://github.com/jakedowns/citra)
+- Added LitByLeia LumePad 1, RED Hydrogen One, LumePad 2 Support to Citra 3DS Emulator: [LP1, RH1 (⭐️11 Stars)](https://github.com/jakedowns/citra-4v) | [LP2 (⭐️7 Stars)](https://github.com/jakedowns/citra)
 - [Added LitByLeia LumePad 1 + 2 Support to MPV Video Player (⭐️9 Stars)](https://github.com/jakedowns/mpv-android)
 - [Added Looking Glass Portrait Support to Citra 3DS Emulator (via ReShade) (⭐️10 Stars)](https://github.com/jakedowns/reshade-shaders)
 - [Worked on Auggie Award-winning Mixed Reality Experience: Pillow XR for Meta Quest](https://www.meta.com/experiences/pillow/5655932521164368/) -- Best Consumer App award at the 15th annual Auggie Awards during AWE USA 2024
