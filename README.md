@@ -5,7 +5,7 @@ I'm a full-stack creative coder (aka. design engineer) currently looking for ful
 If you're looking for someone who is into any/all of the following, 
 Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https://linkedin.com/in/jakedowns)
 
-- AR/VR/XR 
+- AR/VR/MR/XR 
 - AI/ML
 - Full-Stack Development (Web & Native)
 - Shaders / 3D
