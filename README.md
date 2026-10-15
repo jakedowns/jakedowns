@@ -2,6 +2,8 @@
 
 I'm a full-stack creative coder (aka. design engineer) currently looking for full-time remote work.
 
+<img src="past-clients.jpeg" alt="Description" width="640" style="width: 640px; max-width: 640px;">
+
 Previous Clients:
 - ASUG, Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SirenGPS, uBid.com, SOS Children's Villages Illinois, Cooper MacNeil (WeatherTech Racing), Sarah Spain, Waterman Studios, Lowbrow Studios
 
@@ -12,8 +14,6 @@ Please feel free to reach out! [X](https://x.com/jakedowns) | [LinkedIn](https:/
 - AI/ML
 - Full-Stack Development (Web & Native)
 - Shaders / 3D
-
-<img src="past-clients.jpeg" alt="Description" width="300" style="width: 300px; max-width: 300px;">
 
 ---
 
