@@ -2,9 +2,10 @@
 
 I'm a full-stack creative coder (aka. design engineer) currently looking for full-time remote work.
 
-<img src="past-clients.jpeg" alt="Description" width="640" style="width: 640px; max-width: 640px;">
+*Previous Clients:*
 
-Previous Clients:
+<img src="past-clients.jpeg" alt="Description" width="600" style="width: 600px; max-width: 600px;">
+
 - ASUG, Publicis Groupe, Paramount (Nickelodeon), Mattel (American Girl), DirecTV, Dish Network, Chicago Tribune, Lisa Leslie, Lowe's, Hallmark Channel, SoCozy, Invenergy, SirenGPS, uBid.com, SOS Children's Villages Illinois, Cooper MacNeil (WeatherTech Racing), Sarah Spain, Waterman Studios, Lowbrow Studios
 
 If you're looking for someone who is into any/all of the following, 
