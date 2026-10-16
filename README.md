@@ -45,15 +45,16 @@ I have experience with the following:
 
 ---
 
-- Wordpress, Drupal, Code Igniter, Expression Engine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0, Corona SDK, PhoneGap, Swift, Objective-C
+- Wordpress, Drupal, CodeIgniter, ExpressionEngine, DotNetNuke, ColdFusion, ActionScript 1.0, 2.0, & 3.0, CoronaSDK, PhoneGap, Swift, Objective-C
 - Ember, Angular, Meteor
 - Apple Suite: GarageBand, Logic Pro, Final Cut Pro
-- Adobe Suite: Photoshop, Illustrator, InDesign, Premiere After Effects
+- Adobe Suite: Photoshop, Illustrator, InDesign, Premiere, Animate, After Effects
+- Blender, Nomad Sculpt, Procreate, C4D
 - Google Suite: Docs, Sheets, Slides
 - Microsoft Office Suite: Word, Excel, PowerPoint
 - AWS, Rackspace, Dreamhost, GoDaddy
 - MacOS, Linux, Windows, Android, iOS
-- ci/cd experience, github actions, 
+- ci/cd experience, github actions
 - pivotal tracker, jira, trello, notion, obsidian, monday.com
 - slack, discord, teams, google chat, zoom
 - Background in School-District level IT Support
